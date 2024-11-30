@@ -2,7 +2,7 @@ import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import styles from './Sidebar.module.css'; // Adjust the path if needed
-import { assets } from '@/Assets/assets';
+// import { assets } from '@/Assets/assets';
 
 const Sidebar = () => {
     return (

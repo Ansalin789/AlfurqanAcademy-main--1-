@@ -846,7 +846,7 @@ const Index = () => {
       clipPath: 'polygon(0 100%, 50% 0, 100% 100%)',
       zIndex: 1,
     }}
-  ></div>
+  ></div> 
 
   {/* Outer Bottom Wave */}
   <svg

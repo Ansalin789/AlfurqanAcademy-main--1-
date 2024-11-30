@@ -681,7 +681,7 @@ const Index = () => {
                   <div className="circle-progress-title">
                     <h4>
                       {" "}
-                      Teachers <br /> Satisfaction{" "}
+                      TEACHERS <br /> Satisfaction{" "}
                     </h4>
                   </div>
                 </div>
